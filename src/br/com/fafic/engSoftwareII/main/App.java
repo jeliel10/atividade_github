@@ -12,3 +12,4 @@ package br.com.fafic.engSoftwareII.main;
 public class App {
     
 }
+console.log("Erro")
